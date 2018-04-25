@@ -60,7 +60,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="heading-signature" href="http://localhost:8888/wordpress/"><img src="http://localhost:8888/wordpress/wp-content/uploads/2018/03/deshaun-signature.png" alt="DeShaun Jones signature"></a>
+						<a class="heading-signature" href="http://localhost:8888/wordpress/"><img src="http://deshaunjones.com/wp-content/uploads/2018/03/deshaun-signature.png" alt="DeShaun Jones signature"></a>
 					</div>
                     
                     
